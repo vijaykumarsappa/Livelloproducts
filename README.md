@@ -11,7 +11,7 @@ Features
 5) Dark Mode: Toggle between light and dark themes.
 6) Region Dropdown: Change between United States and India.
 7) Performance Optimizations: Lazy loading, memoization, and efficient state management.
-8) Deployment: Hosted on Vercel/Netlify.
+8) Deployment: Hosted on Netlify.
 
 
 
